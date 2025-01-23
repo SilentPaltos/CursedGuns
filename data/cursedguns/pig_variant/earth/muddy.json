@@ -1,0 +1,13 @@
+{
+    "asset_id": "cursedguns:entity/pig/earth/muddy",
+    "model": "normal",
+    "spawn_conditions": [
+        { 
+            "priority": 1,
+            "coondition": {
+                "type": "biome",
+                "biomes": ["the_void"]
+            }
+        }
+    ]
+}

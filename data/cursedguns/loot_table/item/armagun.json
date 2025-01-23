@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "crossbow",
+          "functions": [
+            {
+              "function": "set_components",
+              "components": {
+                "tooltip_display": { "hidden_components": [ "charged_projectiles" ] },
+                "custom_data": { "cursedguns": { "id": "armagun" } },
+                "item_name": { translate: "item.cursedguns.armagun" },
+                "max_stack_size": 1,
+                "rarity": "epic",
+                "item_model": "cursedguns:armagun",
+                "charged_projectiles": [
+                  {
+                    "id": "arrow",
+                    "components": { "minecraft:custom_data": { "cursedguns": "armagun_projectile_filler" } }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

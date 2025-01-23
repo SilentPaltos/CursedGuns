@@ -1,0 +1,16 @@
+{
+    "assets": {
+        "wild": "cursedguns:entity/wolf/earth/skeleton_wild",
+        "tame": "cursedguns:entity/wolf/earth/skeleton_tame",
+        "angry": "cursedguns:entity/wolf/earth/skeleton_angry"
+    },
+    "spawn_conditions": [
+        { 
+            "priority": 1,
+            "coondition": {
+                "type": "biome",
+                "biomes": ["the_void"]
+            }
+        }
+    ]
+}

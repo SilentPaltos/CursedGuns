@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values": [
+        "armor_stand",
+        "bogged",
+        "drowned",
+        "evoker",
+        "husk",
+        "piglin",
+        "piglin_brute",
+        "pillager",
+        "player",
+        "skeleton",
+        "stray",
+        "villager",
+        "vindicator",
+        "wandering_trader",
+        "wither_skeleton",
+        "zombie",
+        "zombie_villager",
+        "zombified_piglin"
+    ]
+}

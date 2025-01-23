@@ -1,0 +1,26 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "name": "armadillo_scute",
+            "functions": [
+              {
+                "function": "set_components",
+                "components": {
+                  "custom_data": { "cursedguns": { "id": "armadillo_scute_concept" } },
+                  "item_name": { translate: "item.cursedguns.armadillo_scute_concept" },
+                  "item_model": "cursedguns:armadillo_scute_concept",
+                  "max_stack_size": 64,
+                  "rarity": "epic"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

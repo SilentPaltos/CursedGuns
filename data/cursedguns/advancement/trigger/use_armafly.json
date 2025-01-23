@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "used_armafly": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "components": {
+                        "custom_data": { "cursedguns": { "id": "armafly" } }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+      "function": "cursedguns:advancement/trigger/use_armafly"
+    }
+}

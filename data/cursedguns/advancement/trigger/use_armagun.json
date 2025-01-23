@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "used_armagun": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "item": {
+          "components": {
+            "minecraft:custom_data": { "cursedguns": { "id": "armagun" } }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedguns:advancement/trigger/use_armagun"
+  }
+}
+

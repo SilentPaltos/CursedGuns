@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "clock",
+          "functions": [
+            {
+              "function": "set_components",
+              "components": {
+                "custom_data": { "cursedguns": { "id": "armahelm" } },
+                "item_name": { translate: "item.cursedguns.armahelm" },
+                "item_model": "cursedguns:armahelm",
+                "max_stack_size": 1,
+                "rarity": "epic",
+                "equippable": {
+                  "slot": "head",
+                  "allowed_entities": "#cursedguns:can_wear_armahelm",
+                  "equip_sound": "entity.armadillo.roll",
+                  "camera_overlay": "cursedguns:misc/armahelm_camera_overlay",
+                  "damage_on_hurt": false,
+                  "dispensable": true,
+                  "swappable": true,
+                  "equip_on_interact": false
+                },
+                "attribute_modifiers": [{
+                      "id": "cursedguns:armor.head",
+                      "type": "armor",
+                      "slot": "head",
+                      "operation": "add_value",
+                      "amount": 6
+                    }
+                  ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

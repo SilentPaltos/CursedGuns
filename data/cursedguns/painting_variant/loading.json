@@ -1,0 +1,9 @@
+{
+    "asset_id": "cursedguns:loading",
+    "title": {
+        "color": "yellow",
+        "translate": "painting.cursedguns.loading.title"
+    },
+    "height": 4,
+    "width": 4  
+}
