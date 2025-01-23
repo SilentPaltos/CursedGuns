@@ -1,0 +1,29 @@
+{
+    "pack.cursedguns.info": "\n%s %s\n\n%s\n%s\n\n> [%s]\n",
+    "pack.cursedguns.name": "Проклятые пушки",
+    "pack.cursedguns.description": "Для проклятого веселья",
+    "pack.cursedguns.authors": "Авторы: %s, %s",
+    "pack.cursedguns.version": "Версия: %s",
+    "pack.cursedguns.get_links_button": "> [%s]",
+    "pack.cursedguns.get_links": "Ссылки",
+    "pack.cursedguns.links": "\n[%s]\n",
+    "pack.cursedguns.link_github": "ГитХаб",
+
+    "item.cursedguns.armagun": "Бронестрел",
+    "item.cursedguns.armafly": "Бронелёт",
+    "item.cursedguns.armahelm": "Бронешлем",
+    "item.cursedguns.armavest": "Бронежилет",
+    "item.cursedguns.armapaw": "Бронелапа",
+    "item.cursedguns.armadillo_scute_concept": "Концепт щитка броненосца",
+    "item.cursedguns.old_armadillo_scute": "Щиток старого броненосца",
+    "item.cursedguns.old_wolf_armor": "Броня старого волка",
+    "item.cursedguns.spider_eyes": "Паучьи глаза",
+    "item.cursedguns.ancient_spider_eyes": "Глаза древнего паука",
+
+    "painting.cursedguns.eyemadillo.title": "Зраконосец",
+    "painting.cursedguns.loading.title": "Загрузка",
+
+    "emoji.cursedguns.armadillo_scute": "1",
+    "emoji.cursedguns.armadillo_scute_concept": "2",
+    "emoji.cursedguns.old_armadillo_scute": "3"
+}

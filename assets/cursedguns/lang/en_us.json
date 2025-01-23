@@ -1,0 +1,29 @@
+{
+    "pack.cursedguns.info": "\n%s %s\n\n%s\n%s\n\n> [%s]\n",
+    "pack.cursedguns.name": "Cursedguns",
+    "pack.cursedguns.description": "For cursed fun",
+    "pack.cursedguns.authors": "Authors: %s, %s",
+    "pack.cursedguns.version": "Version: %s",
+    "pack.cursedguns.get_links_button": "> [%s]",
+    "pack.cursedguns.get_links": "Get Links",
+    "pack.cursedguns.links": "\n[%s]\n",
+    "pack.cursedguns.link_github": "GitHub",
+
+    "item.cursedguns.armagun": "Armagun",
+    "item.cursedguns.armafly": "Armafly",
+    "item.cursedguns.armahelm": "Armahelm",
+    "item.cursedguns.armavest": "Armavest",
+    "item.cursedguns.armapaw": "Armapaw",
+    "item.cursedguns.armadillo_scute_concept": "Armadillo Scute Concept",
+    "item.cursedguns.old_armadillo_scute": "Old Armadillo Scute",
+    "item.cursedguns.old_wolf_armor": "Old Wolf Armor",
+    "item.cursedguns.spider_eyes": "Spider Eyes",
+    "item.cursedguns.ancient_spider_eyes": "Ancient Spider Eyes",
+
+    "painting.cursedguns.eyemadillo.title": "Eye-madillo",
+    "painting.cursedguns.loading.title": "Loading",
+
+    "emoji.cursedguns.armadillo_scute": "1",
+    "emoji.cursedguns.armadillo_scute_concept": "2",
+    "emoji.cursedguns.old_armadillo_scute": "3"
+}
